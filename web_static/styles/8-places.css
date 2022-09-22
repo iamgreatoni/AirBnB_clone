@@ -53,8 +53,8 @@ div.max_guest, div.number_bathrooms, div.number_rooms {
 }
 
 div.max_guest p, div.number_bathrooms p, div.number_rooms p {
-    padding: 60px 0 0;
-    margin: 0 10px 0;
+    padding: 50px 0px;
+    margin: 10px 0px ;
 }
 
 div.max_guest {

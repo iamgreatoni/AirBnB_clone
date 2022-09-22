@@ -50,6 +50,11 @@ div.popover h2 {
     list-style: none;
 }
 
+.popover ul li {
+    list-style: none;
+    padding-top: 15px;
+}
+
 .filters .locations:hover .popover, .filters .amenities:hover .popover {
     display: block;
 }
